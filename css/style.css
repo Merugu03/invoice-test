@@ -4,8 +4,11 @@
   /* border: #333 1px solid; */
 }
 img{
-  width: 150px;
-  text-align: center;
+  /* width: 150px;
+  text-align: center; */
+  max-width: 100%;
+  display: block;
+  margin: auto;
 }
 /* .borders{
   border: #333 1px solid;
@@ -22,9 +25,7 @@ img{
 }
 /* CONSIGNOR */
 .con{
-    border: #333 1px solid;
     height: 123px;
-    width: 750px;
 }
 
 .conr{
