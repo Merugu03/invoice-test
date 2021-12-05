@@ -1,0 +1,66 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  /* border: #333 1px solid; */
+}
+img{
+  width: 150px;
+  text-align: center;
+}
+/* .borders{
+  border: #333 1px solid;
+} */
+.td_tax{
+  text-align: center;
+}
+.main_title{
+  text-align: center;
+    /* border: #333 1px solid; */
+}
+.container{
+  margin-bottom: 62px;
+}
+/* CONSIGNOR */
+.con{
+    border: #333 1px solid;
+    height: 123px;
+    width: 750px;
+}
+
+.conr{
+  border: #333 1px solid;
+}
+
+.list{
+  height: 50px;
+  background-color: #9faba6;
+  color: #758283;
+}
+/* s.no */
+.sno{
+  background-color: #758283;
+}
+
+.larg{
+  height: 256px;
+}
+div{
+    border: #333 1px solid;
+}
+
+.r1{
+  border-bottom: 0px;
+}
+.r2{
+  border-top: 0px;
+}
+.middle{
+  border-left: 0px;
+  border-right: 0px;
+}
+.left{
+  border-right: 0px;
+}
+.right{
+  border-left: 0px;
+}
